@@ -7,7 +7,7 @@
 ##  What I've learnd form this project 
 
  I have used flex box in this project for makeing the card container responsive
- - Learned lot more about flex box , flex wrap 
+ - Learned about tailwind css utility classes hover, responsive  
  - Learned more about positioning the element.
 
 
